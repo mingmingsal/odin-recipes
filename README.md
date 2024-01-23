@@ -1,1 +1,1 @@
-This is the a project to try out the Odin Project.
+This is the a website containing recipes for different food.
